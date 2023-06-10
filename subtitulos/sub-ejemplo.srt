@@ -1,0 +1,15 @@
+1
+00:00:00,250 --> 00:00:02,336
+<font color="#00ff00">texto en color</font>
+
+2 
+00:00:03,045 --> 00:00:04,379 
+<i>texto en italica</i>
+
+3 
+00:00:04,045 --> 00:00:05,379 
+<b>texto en negrita</b>
+
+4 
+00:00:05,045 --> 00:00:06,379 
+<u>texto subrayado</u>
