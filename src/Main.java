@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 public class Main {
     public static void main(String[] args) {
 
-        ArrayList<Subtitulo> Subtitulos = new ArrayList<>();
+        ArrayList<Subtitulo> Sub = new ArrayList<>();
 
 
         Scanner tcld= new Scanner(System.in);
@@ -21,7 +21,7 @@ public class Main {
         BufferedReader lector;
 
         try {
-            archivo=new FileReader(arch);
+            archivo=new FileReader("sub-ejemplo.srt");
             lector = new BufferedReader(archivo);
             String linea;
             LinkedList<String> list= new LinkedList<>();
